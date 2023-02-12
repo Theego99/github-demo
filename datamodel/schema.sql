@@ -1,3 +1,2 @@
-create database test;
-
+create database testing;
 create table users;
